@@ -20,6 +20,10 @@
 .work-dates {
     color: black;
 }
+.company-name{
+    font-weight: bold;
+    font-size: large;
+}
 
 .work-desc {
     text-align: left;
@@ -28,7 +32,9 @@
     -webkit-box-orient: horizontal;
     overflow: hidden ;
     text-overflow: ellipsis;
-    max-width: 80%;
+    max-width: 90%;
+    color: #12ABF8;
+    font-size: 12px;
 }
 
 
