@@ -12,11 +12,5 @@ export const SocialData=[
         icon: linkedin,
         link:"https://www.linkedin.com/in/lana-mckay/",
     },
-    // {
-    //     platform: "LinkedIn",
-    //     icon: require("../../assets/icons/linkedin.png"),
-    //     link:"https://github.com/lanamckay",
-
-    // },
 
 ];
