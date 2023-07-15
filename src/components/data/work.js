@@ -24,7 +24,7 @@ export const WorkData = [
         dateJoining: "May",
         dateEnd: "August 2022",
         companyLogo: manulife,
-        work:"Node.js · Docker · React · Pivotal Cloud Foundry (PCF) "
+        work:"Node.js · Docker · React · Pivotal Cloud Foundry "
     },
     {
         company: "Manulife - Platform Reliability Engineer" ,
