@@ -25,5 +25,4 @@ function Web() {
     </div>
   </div>;
 }
-
 export default Web;
